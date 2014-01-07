@@ -111,8 +111,9 @@ if [ $1 -ge 1 ]; then
 fi
 
 %changelog
+* Tue Jan 7 2014 Michael McGraw-Herdeg <mherdeg@mit.edu>
+- 7.0.47
+
 * Mon Jul 1 2013 Nathan Milford <nathan@milford.io>
 - 7.0.41
 
-* Tue Jan 7 2014 Michael McGraw-Herdeg <mherdeg@mit.edu>
-- 7.0.47
