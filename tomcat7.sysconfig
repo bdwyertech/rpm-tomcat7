@@ -12,7 +12,7 @@
 #
 # This is the installation directory of tomcat 5.
 # Default is /opt/tomcat6.
-#CATALINA_HOME="/opt/tomcat6"
+#CATALINA_HOME="/opt/tomcat7"
 
 # RUNAS_USER
 #
